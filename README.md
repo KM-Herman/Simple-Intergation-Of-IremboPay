@@ -13,7 +13,7 @@ The integration follows the official documentation provided by IremboPay:
 
 Install dependencies and run the src/index.ts file:
 
-npm install
+npm install/n
 npm run dev
 
 ## ⚙️ Environment Setup
