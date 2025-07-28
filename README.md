@@ -17,14 +17,6 @@ Install dependencies and run the src/index.ts file:
 npm install
 npm run dev
 
-## ⚙️ Environment Setup
-
-Create a `.env` file in the project root with the following variables:
-
-```bash
-IPAY_SECRET_KEY=your-secret-key-from-iremboPay
-IPAY_ENVIRONMENT=sandbox
-
 
 
 
