@@ -21,7 +21,7 @@ npm run dev
 
 Create a `.env` file in the project root with the following variables:
 
-```env
+```bash
 IPAY_SECRET_KEY=your-secret-key-from-iremboPay
 IPAY_ENVIRONMENT=sandbox
 
