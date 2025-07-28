@@ -13,8 +13,10 @@ The integration follows the official documentation provided by IremboPay:
 
 Install dependencies and run the src/index.ts file:
 
-npm install/n
+npm install
 npm run dev
+npm installIPAY_SECRET_KEY=your-secret-key-from-iremboPay
+npm run dev IPAY_ENVIRONMENT=sandbox
 
 ## ⚙️ Environment Setup
 
