@@ -22,7 +22,6 @@ IPAY_ENVIRONMENT=sandbox
 
 Install dependencies and run the src/index.ts file:
 
-```Terminal
 npm install
 npm run dev
 
