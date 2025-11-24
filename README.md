@@ -1,6 +1,6 @@
 # Simple-Integration-Of-IremboPay
 
-This project shows how to test the Irembopay API referencing [IremboPay Node.js SDK](https://irembopay.gitbook.io/irembopay-api-docs/sdk/node.js. Here I used Node.js and Typescript.
+This project shows how to test the Irembopay API referencing [IremboPay Node.js SDK][https://irembopay.gitbook.io/irembopay-api-docs/sdk/node.js]. Here I used Node.js and Typescript.
 
 ## 🔗 API Reference
 
